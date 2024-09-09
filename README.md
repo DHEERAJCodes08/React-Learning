@@ -1,6 +1,6 @@
 # 🚀 React Mastery 30-Day Challenge
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100"/>
 
 ## 📝 About This Repository
 
@@ -14,10 +14,10 @@ Welcome to the **React -Learning** repository! 🎉 This repo is a step-by-step 
 
 ### Week 1: React Fundamentals
 - [x] **Day 1:** Introduction to JSX, Components, Props, and State
-- [x] **Day 2:** Handling Events, Conditional Rendering, Lists & Keys
-- [x] **Day 3:** Forms in React, Controlled vs Uncontrolled Components
-- [x] **Day 4:** Lifecycle Methods, `useEffect` Hook
-- [x] **Day 5:** Lifting State Up and State Management Basics
+- [ ] **Day 2:** Handling Events, Conditional Rendering, Lists & Keys
+- [ ] **Day 3:** Forms in React, Controlled vs Uncontrolled Components
+- [ ] **Day 4:** Lifecycle Methods, `useEffect` Hook
+- [ ] **Day 5:** Lifting State Up and State Management Basics
 - [ ] **Day 6:** Working with React Router for Navigation
 - [ ] **Day 7:** Project: To-Do List with Routing
 
