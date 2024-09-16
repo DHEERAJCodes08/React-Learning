@@ -1,6 +1,8 @@
 //This is the File Where we Are Structing and assembling the components!
 
 // const troops = <h1>Hello World!</h1>;
+
+//Day 1
 import React from "react";
 import Button from "./Button";
 import StatusMessage from "./StatusMessage";
@@ -17,6 +19,16 @@ import MulState from "./MultipleState";
 import ListItemComponent from "./ArrayState";
 import UserInfo from "./ObjectState";
 import ShowHideText from "./ConditionalState";
+
+//Day  2
+
+import FetchingData from "./FetchingData";
+import FunctionalLifecycleExample from "./Hook";
+import TodoApp from "./todo";
+
+//Day 3
+import RegistrationForm from "./Form"
+
 
 function App() {
   const user = {
@@ -91,6 +103,32 @@ function App() {
       </div>
       <div>
         <ShowHideText />
+      </div>
+      <hr />
+      <br />
+
+      {/* Day 2 */}
+
+      <div>
+        <FetchingData />
+      </div>
+
+      <div>
+        <FunctionalLifecycleExample />
+      </div>
+
+      <hr />
+      <hr />
+      <div>
+        <TodoApp/>
+      </div>
+
+
+
+      {/* Day 3 */}
+
+      <div>
+      <RegistrationForm/>
       </div>
     </div>
   );
