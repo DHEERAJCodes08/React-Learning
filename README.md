@@ -1,7 +1,7 @@
 # React-Learning
 !!! All the Content & Files you are Looking for are Present in the master Branch So please Switch to it  !
 ---------------------------------------------------------------------------------------------------------
-Useful Resources that Helped me to Learn React 😉Every React Concept Explained in 12 Minutes :  
+Useful Resources that Helped me to Learn React 😉  
 
 1) Every React Concept Explained in 12 Minutes : https://www.youtube.com/watch?v=wIyHSOugGGw
 2) PERN Stack Course - Postgres, Express, React, and Node : https://www.youtube.com/watch?v=ldYcgPKEZC8
